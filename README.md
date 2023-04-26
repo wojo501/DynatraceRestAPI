@@ -10,7 +10,7 @@ gradlew bootRun
 3. open PowerShell
 4. run this command to test
 ```
-curl 'http://localhost:8080/task1?date=2023-04-27&code=eur'
+curl 'http://localhost:8080/task1?date=2023-04-26&code=eur'
 ```
 
 ## Evaluating tasks
